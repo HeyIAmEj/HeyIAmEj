@@ -19,6 +19,8 @@
 </div>
 
 ### Digital Innovation One
+[Para ver todas as Badges da DIO, clique aqui!](https://web.dio.me/users/everton7ej?tab=achievements)
+
   
 ##### Bootcamps
 
