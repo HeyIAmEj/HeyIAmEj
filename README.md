@@ -11,14 +11,14 @@
 - ⚡ Fun fact: The Office Fan; Gosto muito de Python, mas a vida me leva de volta pro Java.
 
 
-### Badges
+## Badges
 
-#### Oracle
+### Oracle Cloud
 <div>
-    <img src="![image](https://user-images.githubusercontent.com/19881621/159174315-0814d522-2c59-4726-92e5-ecb4ca76154d.png)" width="40" height="40"/>
+    <img src="https://user-images.githubusercontent.com/19881621/159175118-6f557abd-124c-461d-a93f-ec3e8afcf39d.png" width="100" height="100"/>
 </div>
 
-#### Digital Innovation One
+### Digital Innovation One
   
 ##### Bootcamps
 
@@ -29,25 +29,27 @@
 ##### Backend Courses
 
 <div>
-      <img src="https://hermes.digitalinnovation.one/courses/badge/60903be0-75c9-44b4-9b15-fa2a41067de1.png" width="40" height="40"/>
-      <img src="https://hermes.digitalinnovation.one/courses/badge/b6be69f1-9af6-4606-91ca-df0157834afe.png" width="40" height="40"/>
-      <img src="https://hermes.digitalinnovation.one/courses/badge/1dcc883a-37fa-42a9-a2a1-1cf012ffb34e.png" width="40" height="40"/>
-      <img src="https://hermes.digitalinnovation.one/courses/badge/bc2c4fe0-3538-4ca0-9e11-3bc1a9a70e83.png" width="40" height="40"/>
-      <img src="https://hermes.digitalinnovation.one/courses/badge/7ce0034f-7e1d-4312-9092-5eb2b8d309cb.png" width="40" height="40"/>
-      <img src="https://hermes.digitalinnovation.one/courses/badge/98e52508-d41b-455f-9294-2c124cc21510.png" width="40" height="40"/>
+      <img src="https://user-images.githubusercontent.com/19881621/159174756-a862dfa7-43ac-405a-b499-3a26a91f14f2.png" width="40" height="40"/>
+      <img src="https://user-images.githubusercontent.com/19881621/159174855-87206fb2-545a-4bd0-b0c8-af130c6868ae.png" width="40" height="40"/>
+      <img src="https://user-images.githubusercontent.com/19881621/159174913-b9c4408a-099e-44e1-88c0-79511efad7ed.png" width="40" height="40"/>
+      <img src="https://user-images.githubusercontent.com/19881621/159174924-17cad07c-9dd3-4205-9ce7-d7a5ffb43db2.png" width="40" height="40"/>
+      <img src="https://user-images.githubusercontent.com/19881621/159174948-94f2efb7-273e-42f3-9f19-dbb8da67e503.png" width="40" height="40"/>
+      <img src="https://user-images.githubusercontent.com/19881621/159174967-1aa8cdbc-0983-40ce-a74e-b5a736698942.png" width="40" height="40"/>
       <img src="https://hermes.digitalinnovation.one/courses/badge/eac33c02-ed6e-43e6-833f-441647fdb848.png" width="40" height="40"/>
       <img src="https://hermes.digitalinnovation.one/courses/badge/d2758af9-3b5d-49e2-9ec8-c6fd150d623c.png" width="40" height="40"/>
       <img src="https://hermes.digitalinnovation.one/courses/badge/8eb094f8-f8dc-4cdd-8f15-1d63669010ae.png" width="40" height="40"/>
-      <img src="https://hermes.digitalinnovation.one/courses/badge/7fb81726-278c-4058-a736-396e94655d78.png" width="40" height="40"/>
+      <img src="https://user-images.githubusercontent.com/19881621/159175003-cb535b7c-811d-4011-b6a4-bf7da63119fe.png" width="40" height="40"/>
       <img src="https://hermes.digitalinnovation.one/courses/badge/1a3460c6-48a0-4d62-b9f0-25f4196690cb.png" width="40" height="40"/>
-      <img src="https://hermes.digitalinnovation.one/courses/badge/e3131cb9-bb94-4a30-bc47-a41429a7c11d.png" width="40" height="40"/>
-      <img src="https://hermes.digitalinnovation.one/courses/badge/ea03f839-894b-4652-b2f4-b80e8a0e5dfe.png" width="40" height="40"/>
+      <img src="https://user-images.githubusercontent.com/19881621/159175034-6d29fbab-e6f6-44ba-ba85-d235f5f4f93c.png" width="40" height="40"/>
+      <img src="https://user-images.githubusercontent.com/19881621/159175051-92cba77e-3669-4bc5-a25a-57dc88fa1a5f.png" width="40" height="40"/>
 </div>
     
 ##### Frontend Courses
 
 <div>
     <img src="https://hermes.digitalinnovation.one/courses/badge/28bfbf19-a31a-41a2-b78f-e70c0e18f37a.png" width="40" height="40"/>
-      <!--<img src="" width="40" height="40"/>-->
+    <img src="https://user-images.githubusercontent.com/19881621/159175084-9df07248-3aaf-4bff-be3b-1f98c4c19ed7.png" width="40" height="40"/>
+    <img src="https://user-images.githubusercontent.com/19881621/159175161-7268f0ba-e708-4b16-9339-433e44b8a7e0.png" width="40" height="40"/>
+
 </div>
   
